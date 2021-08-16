@@ -1,0 +1,12 @@
+{
+  "name": "js-alura-bytebank",
+  "version": "1.0.0",
+  "description": "Projeto do curso ALURA Javascript: Interface e herança em orientaçao a objetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
